@@ -1,6 +1,6 @@
 # gulp basic template
 this is a litle basic gulp template you can use to create wonderfull things :smile: :scream:
-### map structure *(download this repository)*
+### map structure *[(download this repository)](https://github.com/KarelVerhulst/gulp_basic_template/archive/master.zip)*
 ```
 ├── app
 │   ├── dist
