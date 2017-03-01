@@ -6,8 +6,11 @@ this is a litle basic gulp template you can use to create wonderfull things :smi
 │   ├── dist
 │   │   ├── css
 │   │   ├── js
-│   ├── scripts
-│   ├── styles
+│   │   ├── images
+│   ├── source
+│   │   ├── scripts
+│   │   ├── styles
+│   │   ├── images
 │   ├── index.html
 ├── node_modules
 ├── gulpfile.js
@@ -35,13 +38,16 @@ npm install --save-dev gulp-install
 * [gulp-uglify] (https://www.npmjs.com/package/gulp-uglify)
 * [gulp-concat] (https://www.npmjs.com/package/gulp-concat)
 
+##### **IMAGE**
+* [gulp-imagemin] (https://www.npmjs.com/package/gulp-imagemin)
+
 ##### **BOTH**
 * [gulp-notify] (https://www.npmjs.com/package/gulp-notify)
 * [gulp-rename] (https://www.npmjs.com/package/gulp-rename)
 
 ##### To install all the packages use this in your command
 ```
-$ npm install gulp-clean-css --save-dev --save-dev gulp-csslint gulp-sourcemaps jshint gulp-jshint --save-dev --save-dev jshint-stylish gulp-uglify gulp-concat gulp-notify gulp-rename 
+$ npm install gulp-clean-css --save-dev --save-dev gulp-csslint gulp-sourcemaps jshint gulp-jshint --save-dev --save-dev jshint-stylish gulp-uglify gulp-concat gulp-notify gulp-rename --save-dev gulp-imagemin
 ```
 
 > In your command typ 'gulp' and thats it.  
