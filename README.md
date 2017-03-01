@@ -44,5 +44,5 @@ npm install --save-dev gulp-install
 $ npm install gulp-clean-css --save-dev --save-dev gulp-csslint gulp-sourcemaps jshint gulp-jshint --save-dev --save-dev jshint-stylish gulp-uglify gulp-concat gulp-notify gulp-rename 
 ```
 
-> In your command typ 'gulp' and thats it 
+> In your command typ 'gulp' and thats it.  
 > You can always edit the gulpfile.js to add more packages or change something 
