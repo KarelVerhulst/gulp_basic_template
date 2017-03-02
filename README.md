@@ -23,7 +23,7 @@ $ npm install gulp -g
 
 ##### local *as a development dependency:*
 ```
-npm install --save-dev gulp-install
+$ npm install --save-dev gulp-install
 ```
 
 ### install gulp packages
